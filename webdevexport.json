@@ -1,0 +1,4 @@
+{"_id":{"$oid":"6251f0c22e139b72ea82a7ab"},"tuit":"Alice's 1st tuit","likes":124.0,"postedBy":{"username":"alice"}}
+{"_id":{"$oid":"6251f1f42e139b72ea82a7ac"},"tuit":"Bob's 1st tuit","likes":234.0,"postedBy":{"username":"bob"}}
+{"_id":{"$oid":"6251f40b8163511a2bbed6fc"},"tuit":"Charlie's 1st tuit","likes":347.0,"postedBy":{"username":"charlie"}}
+{"_id":{"$oid":"6251f41c8163511a2bbed6fd"},"tuit":"Dan's 1st tuit","likes":456.0,"postedBy":{"username":"dan"}}
