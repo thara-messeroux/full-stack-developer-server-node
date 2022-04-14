@@ -20,6 +20,12 @@ app.use(cors());
 helloController(app);
 userController(app);
 tuitsController(app);
-app.listen(process.env.PORT || 4000);
+app.listen(process.env.PORT || 4000, () => {
+  console.log("Welcome to backend development");
+});
+
+app.get('/', (req,res) => {
+  res.send("Welcome to backend development")
+})
 // import controller
 // pass it app
